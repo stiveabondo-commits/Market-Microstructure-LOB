@@ -2,7 +2,7 @@
 
 Stochastic Limit Order Book (LOB) simulation and algorithmic trading execution modeling.
 
-## 🎯licate endogenous order-flow clustering and liquidity dynamics to train an optimal execution agent.
+## Replicate endogenous order-flow clustering and liquidity dynamics to train an optimal execution agent.
 
 ## Key Features
 - **Hawkes Processes:** Simulation of self-excited point processes calibrated on real market data.
